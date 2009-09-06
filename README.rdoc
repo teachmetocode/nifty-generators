@@ -1,4 +1,4 @@
-= Nifty Generators
+= Eric's Nifty Generators
 
 A collection of useful Rails generator scripts.
 
